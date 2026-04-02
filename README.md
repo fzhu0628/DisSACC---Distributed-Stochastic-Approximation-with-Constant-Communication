@@ -6,7 +6,7 @@ Feng Zhu, Aritra Mitra, Robert W. Heath Jr.
 
 ## Overview
 
-We study a general **distributed stochastic approximation (SA)** problem with heterogeneous agents, where the goal is to find the root of the average operator across agents.
+**This is a pure-theory paper**. We study a general **distributed stochastic approximation (SA)** problem with heterogeneous agents, where the goal is to find the root of the average operator across agents.
 
 This setting captures a wide range of applications, including:
 - Federated learning
