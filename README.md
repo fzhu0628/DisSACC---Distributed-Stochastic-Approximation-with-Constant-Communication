@@ -37,6 +37,8 @@ We propose **DisSACC (Distributed Stochastic Approximation with Constant Communi
 - Constructs a **variance-reduced operator**
 - Performs **one update per round**
 - Server aggregates across agents
+<img width="882" height="815" alt="image" src="https://github.com/user-attachments/assets/04c7d03b-7c86-4af6-ad2a-12aa6bc5da31" />
+
 
 ---
 
